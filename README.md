@@ -1,7 +1,7 @@
-- 👋 Hey, I’m @crystal-rosa!
+- 👋 Hey there!! I’m @crystal-rosa! d:
 - ☕️ UX Designer learning Front End Development
-- 👀 Fav hobbies include going to the gym, driving to a view, & journaling!
-- ☕️ Love to listen to rain sounds & the Twilight orchestra soundtrack while coding/designing
+- 👀 Fav hobbies include going to the gym, journaling, and visiting new cafes!
+- 🌲 Love to listen to rain sounds & the Twilight orchestra soundtrack while coding/designing
 - 😄 My Pronouns are: she/her/hers
-- 🍜 Currently trying to finish up Naruto Shippuden
+- 👾 Currently working on coding my LBW Design Project, where I'm incorporating Tailwind CSS & Vue.js!
 - 📫 Wanna talk? You can reach me on LinkedIn!
